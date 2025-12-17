@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Gerador de Pesquisa de NI",
+  "description": "Application to generate legal investigation notification requests based on case data and individuals involved, replicating a Power Apps interface.",
+  "requestFramePermissions": []
+}
